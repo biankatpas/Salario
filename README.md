@@ -1,0 +1,4 @@
+# Salario
+Casos de teste utilizando JUnit
+
+Considere uma classe que efetua o cálculo do salário líquido de um funcionário, que recebe como parâmetro obrigatório o seu salário de registro, permitindo ainda informar o número de horas trabalhadas. O número de horas trabalhadas quando informado, é utilizado para calcular o salário tendo como base uma jornada de trabalho de 160 horas. Para as horas que ultrapassarem este valor é aplicado um percentual adicional de 50% de hora extra. Se o número de horas trabalhadas for inferior ou igual a 90% da jornada de trabalho, o funcionário deixa de receber o seu salário completo e passa a receber por hora trabalhada. Quando o número de horas trabalhadas não é informado assume-se a jornada normal de trabalho de 160 horas. Consideram-se valores válidos para o salário de registro e número de horas trabalhos valores maiores que zero.
